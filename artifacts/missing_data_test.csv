@@ -1,0 +1,9 @@
+Timestamp,Student ID,What is your age?,Gender,Rate your academic pressure (1-5),What is your current CGPA?,Rate your study satisfaction (1-5),Average sleep hours per night,Have you ever had suicidal thoughts?,Daily work/study hours,Rate your financial stress (1-5),Family history of mental illness?,What is your education level?
+2026-01-15 10:00:00,COMPLETE001,22,Male,4,3.2,3,5-6 hours,No,8,3,No,Undergraduate
+2026-01-15 10:05:00,MISSING_AGE,,Female,5,2.8,2,Less than 5 hours,Yes,10,4,Yes,School
+2026-01-15 10:10:00,MISSING_GENDER,24,,2,3.6,4,7-8 hours,No,6,2,No,Postgraduate
+2026-01-15 10:15:00,MISSING_SLEEP,21,Female,3,3.0,3,,No,7,3,No,Undergraduate
+2026-01-15 10:20:00,MISSING_SENSITIVE,23,Male,4,2.5,2,5-6 hours,,9,,,Undergraduate
+2026-01-15 10:25:00,INVALID_AGE,abc,Male,4,3.0,3,7-8 hours,No,7,3,No,Undergraduate
+2026-01-15 10:30:00,INVALID_CGPA,20,Female,3,xyz,3,7-8 hours,No,6,3,No,Undergraduate
+2026-01-15 10:35:00,MOSTLY_MISSING,,,,,,,,,,,
